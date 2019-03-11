@@ -1,2 +1,2 @@
 git is great
-git is powerful!
+git is free and powerful!
