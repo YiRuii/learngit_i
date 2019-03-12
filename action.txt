@@ -3,3 +3,4 @@ git is free and powerful!
 Git has a mutable index called stage.
 Teacher is not the most important part of learn and life.
 Nothing is important than studay.
+My life is much beautiful 
